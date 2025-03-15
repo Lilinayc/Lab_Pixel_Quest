@@ -32,4 +32,6 @@ public class GeoController : MonoBehaviour
         // Debug.Log("sum: " + sum);
         Debug.Log("increase: " + numberOne);
     }
-}
+   // Vector3 vector3 = new Vector3(1, 1, 1,);
+}    
+//transform
